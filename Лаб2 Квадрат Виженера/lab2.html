@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+    <meta charset='UTF-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='stylesheet' href='style.css'>
+    <link rel='shortcut icon' href='' type='image/x-icon'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&family=Rubik+Mono+One&display=swap"
+        rel="stylesheet">
+    <title>Квадрат Виженера</title>
+</head>
+
+<body>
+    <h1>Квадрат Виженера</h1>
+    <div id="result">
+        <div id="resultText"></div>
+        <div id="resultValue"></div>
+    </div>
+    <div>
+        <label for="message" class="mainInfo">Текст для шифрования</label><br>
+        <input type="text" id="message" class="mainInfo"> <br>
+        <label for="key" class="mainInfo">Ключ шифрования</label><br>
+        <input type="text" id="key" class="mainInfo"> <br>
+        <input type="button" id="codeButton" value="Зашифровать" class="mainInfo" onclick="toCode()"> <br>
+        <input type="button" id="decodeButton" value="Расшифровать" class="mainInfo" onclick="toDecode()">
+    </div>
+    <script src='main.js'></script>
+</body>
+
+</html>
