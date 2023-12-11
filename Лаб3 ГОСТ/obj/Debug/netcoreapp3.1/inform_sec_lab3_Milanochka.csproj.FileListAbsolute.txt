@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.exe
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.deps.json
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.dll
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.pdb
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.Form1.resources
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.dll
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.pdb
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.genruntimeconfig.cache

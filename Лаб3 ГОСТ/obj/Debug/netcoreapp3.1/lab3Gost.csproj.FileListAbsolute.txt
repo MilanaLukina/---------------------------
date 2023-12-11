@@ -1,0 +1,16 @@
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\lab3Gost.exe
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\lab3Gost.deps.json
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\lab3Gost.runtimeconfig.json
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\lab3Gost.runtimeconfig.dev.json
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\lab3Gost.dll
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\bin\Debug\netcoreapp3.1\lab3Gost.pdb
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\inform_sec_lab3_Milanochka.Form1.resources
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.dll
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.pdb
+C:\Users\Дмитрий\source\repos\inform_sec_lab3_Milanochka\obj\Debug\netcoreapp3.1\lab3Gost.genruntimeconfig.cache
